@@ -1,0 +1,15 @@
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\CourseIntermediarie\CourseIntermediarie\bin\Debug\net6.0\CourseIntermediarie.exe
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\CourseIntermediarie\CourseIntermediarie\bin\Debug\net6.0\CourseIntermediarie.deps.json
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\CourseIntermediarie\CourseIntermediarie\bin\Debug\net6.0\CourseIntermediarie.runtimeconfig.json
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\CourseIntermediarie\CourseIntermediarie\bin\Debug\net6.0\CourseIntermediarie.dll
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\CourseIntermediarie\CourseIntermediarie\bin\Debug\net6.0\CourseIntermediarie.pdb
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\CourseIntermediarie\CourseIntermediarie\obj\Debug\net6.0\CourseIntermediarie.csproj.AssemblyReference.cache
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\CourseIntermediarie\CourseIntermediarie\obj\Debug\net6.0\CourseIntermediarie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\CourseIntermediarie\CourseIntermediarie\obj\Debug\net6.0\CourseIntermediarie.AssemblyInfoInputs.cache
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\CourseIntermediarie\CourseIntermediarie\obj\Debug\net6.0\CourseIntermediarie.AssemblyInfo.cs
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\CourseIntermediarie\CourseIntermediarie\obj\Debug\net6.0\CourseIntermediarie.csproj.CoreCompileInputs.cache
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\CourseIntermediarie\CourseIntermediarie\obj\Debug\net6.0\CourseIntermediarie.dll
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\CourseIntermediarie\CourseIntermediarie\obj\Debug\net6.0\refint\CourseIntermediarie.dll
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\CourseIntermediarie\CourseIntermediarie\obj\Debug\net6.0\CourseIntermediarie.pdb
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\CourseIntermediarie\CourseIntermediarie\obj\Debug\net6.0\CourseIntermediarie.genruntimeconfig.cache
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\CourseIntermediarie\CourseIntermediarie\obj\Debug\net6.0\ref\CourseIntermediarie.dll

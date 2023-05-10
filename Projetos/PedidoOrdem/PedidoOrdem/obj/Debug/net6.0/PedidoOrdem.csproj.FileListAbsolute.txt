@@ -1,0 +1,15 @@
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\PedidoOrdem\PedidoOrdem\bin\Debug\net6.0\PedidoOrdem.exe
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\PedidoOrdem\PedidoOrdem\bin\Debug\net6.0\PedidoOrdem.deps.json
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\PedidoOrdem\PedidoOrdem\bin\Debug\net6.0\PedidoOrdem.runtimeconfig.json
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\PedidoOrdem\PedidoOrdem\bin\Debug\net6.0\PedidoOrdem.dll
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\PedidoOrdem\PedidoOrdem\bin\Debug\net6.0\PedidoOrdem.pdb
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\PedidoOrdem\PedidoOrdem\obj\Debug\net6.0\PedidoOrdem.csproj.AssemblyReference.cache
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\PedidoOrdem\PedidoOrdem\obj\Debug\net6.0\PedidoOrdem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\PedidoOrdem\PedidoOrdem\obj\Debug\net6.0\PedidoOrdem.AssemblyInfoInputs.cache
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\PedidoOrdem\PedidoOrdem\obj\Debug\net6.0\PedidoOrdem.AssemblyInfo.cs
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\PedidoOrdem\PedidoOrdem\obj\Debug\net6.0\PedidoOrdem.csproj.CoreCompileInputs.cache
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\PedidoOrdem\PedidoOrdem\obj\Debug\net6.0\PedidoOrdem.dll
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\PedidoOrdem\PedidoOrdem\obj\Debug\net6.0\refint\PedidoOrdem.dll
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\PedidoOrdem\PedidoOrdem\obj\Debug\net6.0\PedidoOrdem.pdb
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\PedidoOrdem\PedidoOrdem\obj\Debug\net6.0\PedidoOrdem.genruntimeconfig.cache
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\PedidoOrdem\PedidoOrdem\obj\Debug\net6.0\ref\PedidoOrdem.dll

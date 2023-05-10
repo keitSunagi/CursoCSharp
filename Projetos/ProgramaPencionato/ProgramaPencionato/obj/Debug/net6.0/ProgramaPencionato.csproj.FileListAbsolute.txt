@@ -1,0 +1,15 @@
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\ProgramaPencionato\ProgramaPencionato\bin\Debug\net6.0\ProgramaPencionato.exe
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\ProgramaPencionato\ProgramaPencionato\bin\Debug\net6.0\ProgramaPencionato.deps.json
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\ProgramaPencionato\ProgramaPencionato\bin\Debug\net6.0\ProgramaPencionato.runtimeconfig.json
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\ProgramaPencionato\ProgramaPencionato\bin\Debug\net6.0\ProgramaPencionato.dll
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\ProgramaPencionato\ProgramaPencionato\bin\Debug\net6.0\ProgramaPencionato.pdb
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\ProgramaPencionato\ProgramaPencionato\obj\Debug\net6.0\ProgramaPencionato.csproj.AssemblyReference.cache
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\ProgramaPencionato\ProgramaPencionato\obj\Debug\net6.0\ProgramaPencionato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\ProgramaPencionato\ProgramaPencionato\obj\Debug\net6.0\ProgramaPencionato.AssemblyInfoInputs.cache
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\ProgramaPencionato\ProgramaPencionato\obj\Debug\net6.0\ProgramaPencionato.AssemblyInfo.cs
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\ProgramaPencionato\ProgramaPencionato\obj\Debug\net6.0\ProgramaPencionato.csproj.CoreCompileInputs.cache
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\ProgramaPencionato\ProgramaPencionato\obj\Debug\net6.0\ProgramaPencionato.dll
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\ProgramaPencionato\ProgramaPencionato\obj\Debug\net6.0\refint\ProgramaPencionato.dll
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\ProgramaPencionato\ProgramaPencionato\obj\Debug\net6.0\ProgramaPencionato.pdb
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\ProgramaPencionato\ProgramaPencionato\obj\Debug\net6.0\ProgramaPencionato.genruntimeconfig.cache
+C:\Users\lucas.cantidio\Desktop\Curso C#\Projetos\ProgramaPencionato\ProgramaPencionato\obj\Debug\net6.0\ref\ProgramaPencionato.dll
