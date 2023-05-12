@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSharpProductPolimorfic/1.0.0": {
+        "runtime": {
+          "CSharpProductPolimorfic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpProductPolimorfic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

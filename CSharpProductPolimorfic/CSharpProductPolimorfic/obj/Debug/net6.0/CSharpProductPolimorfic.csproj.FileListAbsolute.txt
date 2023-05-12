@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\CSharpProductPolimorfic\CSharpProductPolimorfic\bin\Debug\net6.0\CSharpProductPolimorfic.exe
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\CSharpProductPolimorfic\CSharpProductPolimorfic\bin\Debug\net6.0\CSharpProductPolimorfic.deps.json
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\CSharpProductPolimorfic\CSharpProductPolimorfic\bin\Debug\net6.0\CSharpProductPolimorfic.runtimeconfig.json
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\CSharpProductPolimorfic\CSharpProductPolimorfic\bin\Debug\net6.0\CSharpProductPolimorfic.dll
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\CSharpProductPolimorfic\CSharpProductPolimorfic\bin\Debug\net6.0\CSharpProductPolimorfic.pdb
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\CSharpProductPolimorfic\CSharpProductPolimorfic\obj\Debug\net6.0\CSharpProductPolimorfic.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\CSharpProductPolimorfic\CSharpProductPolimorfic\obj\Debug\net6.0\CSharpProductPolimorfic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\CSharpProductPolimorfic\CSharpProductPolimorfic\obj\Debug\net6.0\CSharpProductPolimorfic.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\CSharpProductPolimorfic\CSharpProductPolimorfic\obj\Debug\net6.0\CSharpProductPolimorfic.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\CSharpProductPolimorfic\CSharpProductPolimorfic\obj\Debug\net6.0\CSharpProductPolimorfic.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\CSharpProductPolimorfic\CSharpProductPolimorfic\obj\Debug\net6.0\CSharpProductPolimorfic.dll
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\CSharpProductPolimorfic\CSharpProductPolimorfic\obj\Debug\net6.0\refint\CSharpProductPolimorfic.dll
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\CSharpProductPolimorfic\CSharpProductPolimorfic\obj\Debug\net6.0\CSharpProductPolimorfic.pdb
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\CSharpProductPolimorfic\CSharpProductPolimorfic\obj\Debug\net6.0\CSharpProductPolimorfic.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\CSharpProductPolimorfic\CSharpProductPolimorfic\obj\Debug\net6.0\ref\CSharpProductPolimorfic.dll
