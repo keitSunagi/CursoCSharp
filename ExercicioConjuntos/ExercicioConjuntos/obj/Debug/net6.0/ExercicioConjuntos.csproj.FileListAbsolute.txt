@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net6.0\ExercicioConjuntos.exe
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net6.0\ExercicioConjuntos.deps.json
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net6.0\ExercicioConjuntos.runtimeconfig.json
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net6.0\ExercicioConjuntos.dll
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net6.0\ExercicioConjuntos.pdb
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.dll
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\refint\ExercicioConjuntos.dll
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.pdb
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ExercicioConjuntos.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net6.0\ref\ExercicioConjuntos.dll

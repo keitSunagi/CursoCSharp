@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioArquivos\ExercicioArquivos\bin\Debug\net6.0\ExercicioArquivos.exe
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioArquivos\ExercicioArquivos\bin\Debug\net6.0\ExercicioArquivos.deps.json
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioArquivos\ExercicioArquivos\bin\Debug\net6.0\ExercicioArquivos.runtimeconfig.json
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioArquivos\ExercicioArquivos\bin\Debug\net6.0\ExercicioArquivos.dll
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioArquivos\ExercicioArquivos\bin\Debug\net6.0\ExercicioArquivos.pdb
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net6.0\ExercicioArquivos.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net6.0\ExercicioArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net6.0\ExercicioArquivos.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net6.0\ExercicioArquivos.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net6.0\ExercicioArquivos.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net6.0\ExercicioArquivos.dll
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net6.0\refint\ExercicioArquivos.dll
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net6.0\ExercicioArquivos.pdb
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net6.0\ExercicioArquivos.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\ExercicioArquivos\ExercicioArquivos\obj\Debug\net6.0\ref\ExercicioArquivos.dll

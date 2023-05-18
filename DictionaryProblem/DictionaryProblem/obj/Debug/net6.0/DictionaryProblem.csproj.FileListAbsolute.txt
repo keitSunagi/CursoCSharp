@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\DictionaryProblem\DictionaryProblem\bin\Debug\net6.0\DictionaryProblem.exe
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\DictionaryProblem\DictionaryProblem\bin\Debug\net6.0\DictionaryProblem.deps.json
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\DictionaryProblem\DictionaryProblem\bin\Debug\net6.0\DictionaryProblem.runtimeconfig.json
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\DictionaryProblem\DictionaryProblem\bin\Debug\net6.0\DictionaryProblem.dll
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\DictionaryProblem\DictionaryProblem\bin\Debug\net6.0\DictionaryProblem.pdb
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\DictionaryProblem\DictionaryProblem\obj\Debug\net6.0\DictionaryProblem.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\DictionaryProblem\DictionaryProblem\obj\Debug\net6.0\DictionaryProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\DictionaryProblem\DictionaryProblem\obj\Debug\net6.0\DictionaryProblem.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\DictionaryProblem\DictionaryProblem\obj\Debug\net6.0\DictionaryProblem.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\DictionaryProblem\DictionaryProblem\obj\Debug\net6.0\DictionaryProblem.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\DictionaryProblem\DictionaryProblem\obj\Debug\net6.0\DictionaryProblem.dll
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\DictionaryProblem\DictionaryProblem\obj\Debug\net6.0\refint\DictionaryProblem.dll
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\DictionaryProblem\DictionaryProblem\obj\Debug\net6.0\DictionaryProblem.pdb
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\DictionaryProblem\DictionaryProblem\obj\Debug\net6.0\DictionaryProblem.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Curso C# Completo\Projetos\DictionaryProblem\DictionaryProblem\obj\Debug\net6.0\ref\DictionaryProblem.dll
